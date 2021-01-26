@@ -1,4 +1,5 @@
 Groupe de de Isuru Haupe, Christophe Los Santos Neto et Glenn Louarn
+Vous trouverez tous nos algorithme de recherche dans le dossier TP3-V2/src/modele/algoRecherche
 
 Q? En étudiant le code des interfaces Bibliotheque et Portail (et de leurs interfaces parentes) ainsi que celui de leurs implémentations, déterminer l'ensemble des requêtes http acceptées par ces services. On supposera que la bibliothèque est déployée à l'adresse BIBLIO et le portail à l'adresse PORTAIL. Placer votre réponse dans un fichier readme.
 
