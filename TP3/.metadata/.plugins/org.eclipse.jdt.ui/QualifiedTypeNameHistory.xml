@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="infrastructure.jaxrs.LienVersRessource"/>
+    <fullyQualifiedTypeName name="modele.RechercheSynchroneAbstraite"/>
+    <fullyQualifiedTypeName name="modele.algoRecherche.RechercheSynchroneSequentielle"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ThreadPoolExecutor"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicReference"/>
+    <fullyQualifiedTypeName name="modele.ImplemNomAlgorithme"/>
+    <fullyQualifiedTypeName name="modele.RechercheAsynchroneAbstraite"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutionException"/>
+    <fullyQualifiedTypeName name="infrastructure.jaxrs.Outils"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+    <fullyQualifiedTypeName name="io.reactivex.rxjava3.core.Observable"/>
+    <fullyQualifiedTypeName name="io.reactivex.rxjava3.schedulers.Schedulers"/>
+</qualifiedTypeNameHistroy>
